@@ -1,5 +1,7 @@
 # FETarjetaCredito
 
+Crud de tarjeta de credito Angular 13 para el fronted y el en backed NET.CORE y en la Base de Datos SQL SERVER
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
 ## Development server
